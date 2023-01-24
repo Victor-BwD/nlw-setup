@@ -29,6 +29,6 @@ npm run dev
 This website was made with:
 
 javascript, typescript
-HTML, CSS
+HTML, CSS,
 SQL,
 Prisma
