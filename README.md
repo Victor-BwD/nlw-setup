@@ -17,4 +17,5 @@ All the server part was done using Prisma, and the connection to the server was 
 To run the application:
 
 npm install
+
 npm run dev
