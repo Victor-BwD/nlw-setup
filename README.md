@@ -1,3 +1,7 @@
+# Welcome to my project #
+
+This project was created together with Rocketseat with the aim of always learning more and reaching the next level.
+
 Some screenshoots: 
 
 ![image](https://user-images.githubusercontent.com/32820715/214209585-887db7e4-4636-451a-a219-dbe0d6a8efa7.png)
