@@ -19,3 +19,12 @@ To run the application:
 npm install
 
 npm run dev
+
+# Technologies #
+
+This website was made with:
+
+javascript, typescript
+HTML, CSS
+SQL,
+Prisma
